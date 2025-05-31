@@ -5,4 +5,5 @@ This repository contains some of my personal opinionated best papers I have foun
 
 ## Papers
 
-1. Huamnity's Last Exam. Details can be found (here)[https://agi.safe.ai/]
+1. Huamnity's Last Exam. Details can be found[here](https://agi.safe.ai/)
+2. Darwin Godel Machine, find it [here](https://github.com/jennyzzt/dgm)
